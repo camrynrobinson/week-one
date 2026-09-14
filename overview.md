@@ -1,0 +1,7 @@
+- Colleen Morgan's article about methods for Contemporary DigiArchaeology was really interesting
+- what is the best way to get my handwritten notes into these overviews? does it matter? i feel like they should go in here.
+-   the Morgan reading combined with our discussions in class about metadata and paradata and our activity of compiling our own data reminded me of a lecture i attended a few years ago when I was a student at Trent University about Bruno Latour and Steve Woolgar's "Laboratory Life" (1979?), which explores and describes the science of studying scientists. Latour and Woolgar assert that the lab is not an impartial, objective, sterile environment of empirical data and fact (as much as scientists may like for it to be), but instead an ecosystem of fallible and biased people operating fallible and biased equipment which has been produced and maintained by other fallible and biased people. and that's okay, but we have to think about it when we interpret the data that comes from the lab.
+-     I'm going to try to find my notes from this course and put them in here too. 
+- i really like this journal-type format for deliverables.
+- i'm also really enjoying Github so far. i think i will maybe enjoy it less once things start to get more complicated and i have to start worrying about more of these options on my screen but we'll get there when we get there.
+- 

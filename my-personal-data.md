@@ -6,10 +6,12 @@
   - duration of posting
   - dad's job position while living there
 # academic discipline 
-- program of enrolment 
-- intended career field 
+I've attended three different universities over the course of approximately 4 years, and drastically changed my major several times. i'd like to lay them out and see how the course materials and concepts overlap 
+- program of enrolment
+- institution of enrolment
+- courses taken each semester (categorized by subject matter; history, biology, environmental studies, indigenous studies, etc.)
+- syllabi (reading/reference materials) for each course 
 - estimated duration of studies
-- 
 # Timeline of realizing i hate my job
 - Specific Position
 - Dates of employment 

@@ -1,0 +1,3 @@
+- Weekly Reading
+- Introduction to class
+- Getting to know Github 

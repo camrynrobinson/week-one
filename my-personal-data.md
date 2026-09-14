@@ -12,13 +12,15 @@ I've attended three different universities over the course of approximately 4 ye
 - courses taken each semester (categorized by subject matter; history, biology, environmental studies, indigenous studies, etc.)
 - syllabi (reading/reference materials) for each course 
 - estimated duration of studies
-# Timeline of realizing i hate my job
+# Timeline of realizing i hated my job as a camp counsellor 
 - Specific Position
 - Dates of employment 
 - Level of responsibility (offset by coolness factor of position)
   - Degrees of separation from children's safety 
   - Degrees of separation from children in general
-- Country of residence at time of employment 
+- Country of residence at time of employment
+- average temperatures over employment period
+- average precipitation over employment period 
 - Grade level at time of employment
   - Grade point average 
 - Job satisfaction
@@ -26,4 +28,3 @@ I've attended three different universities over the course of approximately 4 ye
     - Extensive diary entries from ~2016 - 2023
     - Photographs
     - Duration of employment?
-  

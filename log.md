@@ -1,4 +1,7 @@
 - Weekly Reading
-- Introduction to class
-- Getting to know Github and setting up account
-- my personal data activity
+- lecture 1
+- set up Github account
+- completed "my personal data" activity
+- created WEEK ONE repository
+- created PDAP repository
+- created WEEK TWO repository

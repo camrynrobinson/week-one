@@ -9,4 +9,4 @@
 -  going to try to find my notes from this course and put them in here too. 
 - i really like this journal-type format for deliverables.
 - i'm also really enjoying Github so far. i think i will maybe enjoy it less once things start to get more complicated and i have to start worrying about more of these options on my screen but we'll get there when we get there.
-- watched a really interesting youtube video about AI that helped me understand it a little bit better: "Everything was already AI" by Unlearning Economics (https://www.youtube.com/watch?v=Km2bn0HvUwg) 
+- watched a really interesting youtube video with an explanation at the beginning about AI that helped me understand it a little bit better: "Everything was already AI" by Unlearning Economics (https://www.youtube.com/watch?v=Km2bn0HvUwg) 

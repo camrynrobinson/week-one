@@ -189,8 +189,6 @@ all you technically need is a computer and someone who is willing to share data 
 
 "Archaeology impossible Project" → studying non-visible and non self-sustaining societies (Mt. Everest base camps)
 
-Kavita Mistry; collections research @ Ingenium
-
 - if it doesn't come after 30 minutes it won't come in three hours. ASK FOR HELP!
 
 3 MODULES OF DIGITAL ARCHAEOLOGY DATA - D CAPTA
